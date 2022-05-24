@@ -4,9 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/drawable/custom_button.xml" value="0.1" />
+        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/drawable/custom_button_secundary.xml" value="0.1" />
+        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/drawable/custom_margen.xml" value="0.1" />
         <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/drawable/ic_launcher_background.xml" value="0.103" />
-        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/layout/activity_main.xml" value="0.1" />
-        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/yinoz/AndroidStudioProjects/BarbersGold/app/src/main/res/layout/activity_main2.xml" value="0.22" />
       </map>
     </option>
   </component>

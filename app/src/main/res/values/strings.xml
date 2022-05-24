@@ -10,4 +10,11 @@
     <string name="olvido_su_nombre_de_usuario_o_cotrase_a">¿Olvido su nombre de usuario o cotraseña?</string>
     <string name="contrase_a">Contraseña</string>
     <string name="email">Email</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="cedula">Cedula</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="direcci_n">Dirección</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrarse">registrarse</string>
 </resources>

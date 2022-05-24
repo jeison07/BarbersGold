@@ -10,8 +10,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="317dp"
-        android:layout_height="299dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:contentDescription="@string/todo"
         app:layout_constraintBottom_toTopOf="@+id/guideline"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
@@ -40,11 +40,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.11435523" />
+        app:layout_constraintGuide_percent="0.09" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:fontFamily="sans-serif"
         android:text="@string/email"
         android:textColor="#23253c"
@@ -58,7 +58,7 @@
     <EditText
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:background="#e6e9ed"
+        android:background="@drawable/custom_margen"
         android:drawableStart="@drawable/ic_email"
         android:fontFamily="sans-serif"
         android:hint="@string/exemplo"
@@ -84,7 +84,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.21654502" />
+        app:layout_constraintGuide_percent="0.14" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline6"
@@ -115,8 +115,8 @@
         app:layout_constraintGuide_percent="0.55780023" />
 
     <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:fontFamily="sans-serif"
         android:text="@string/contrase_a"
         android:textColor="#23253c"
@@ -146,7 +146,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        app:layout_constraintGuide_percent="0.42335767" />
+        app:layout_constraintGuide_percent="0.35" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline14"
@@ -162,20 +162,20 @@
         android:orientation="horizontal"
         app:layout_constraintGuide_percent="0.64983165" />
 
-    <TextView
-        android:id="@+id/textView2"
+    <EditText
+        android:id="@+id/editTextCorreo1"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:background="#e6e9ed"
+        android:background="@drawable/custom_margen"
         android:drawableStart="@drawable/ic_lock"
-        android:gravity="left|center_vertical"
         android:hint="@string/pass"
+        android:inputType="textPassword"
         android:textColor="#59000000"
         android:textSize="15sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline15"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="@+id/guideline3"
-        app:layout_constraintTop_toTopOf="@+id/guideline12" />
+        app:layout_constraintTop_toTopOf="@+id/guideline14" />
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline16"
