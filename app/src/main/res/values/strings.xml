@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Barber´sGold</string>
+    <string name="pass">**********</string>
+    <string name="iniciar_secci_n">Iniciar Sección</string>
+    <string name="iniciar_sección">iniciar sección</string>
+    <string name="login">Iniciar Sección</string>
+    <string name="todo">TODO</string>
+    <string name="exemplo">exemplo@exemplo.com</string>
+    <string name="registrate">Registrate</string>
+    <string name="olvido_su_nombre_de_usuario_o_cotrase_a">¿Olvido su nombre de usuario o cotraseña?</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="email">Email</string>
+</resources>
