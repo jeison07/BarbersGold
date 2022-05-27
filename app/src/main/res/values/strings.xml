@@ -7,7 +7,7 @@
     <string name="todo">TODO</string>
     <string name="exemplo">exemplo@exemplo.com</string>
     <string name="registrate">Registrate</string>
-    <string name="olvido_su_nombre_de_usuario_o_cotrase_a">¿Olvido su nombre de usuario o cotraseña?</string>
+    <string name="olvido_su_nombre_de_usuario_o_cotrase_a">¿Olvido su usuario o contraseña?</string>
     <string name="contrase_a">Contraseña</string>
     <string name="email">Email</string>
     <string name="nombre">Nombre</string>
@@ -22,4 +22,8 @@
     <string name="correo">Correo</string>
     <string name="ya_tienes_con_una_cuenta">¿Ya tienes con una cuenta?</string>
     <string name="iniciar_seccion">iniciar sección</string>
+    <string name="recordar">Recordar</string>
+    <string name="button">Button</string>
+    <string name="menu_logout">menu_logout</string>
+    <string name="menu_forget_logout">menu_forget_logout</string>
 </resources>
